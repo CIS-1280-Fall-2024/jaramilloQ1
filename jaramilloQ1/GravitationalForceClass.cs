@@ -29,7 +29,7 @@ public class GravitationalForce
         {
             get
             {
-                return CalculateForce();
+                return CalculateForce(); //Calculate should be called from the sets. RJG
             }
         }
 
